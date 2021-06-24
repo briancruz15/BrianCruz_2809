@@ -1,0 +1,10 @@
+-Operar el sistema de computación central y mantener el sistema disponible
+para los usuarios: le da soporte a usuarios, como al sistema, se ocupa de seleccionar, instalar y mantener el sistema operativo adecuado, del diseño y control de la estructura de la base de datos, gestióna el estudio y evaluación de las necesidades, rendimientos del sistema y la ayuda directa a usuarios.
+
+-Ejecutar los procesos asignados conforme a los programas de producción y calendarios preestablecidos, dejando el registro correspondiente en las solicitudes de proceso: Supervisa la  previsión de fechas de realización de trabajos, operación general del sistema, control y manejo de soportes, seguridad del sistema, supervisión de trabajos, etc.
+
+-Revisar los resultados de los procesos e incorporar acciones correctivas conforme a instrucciones de su superior inmediato: Supervisa, planifica y controla los proyectos,la seguridad y control de proyectos, seguridad general de las instalaciones y equipos, gestión financiera y gestión de los propios recursos humanos.
+
+-Realizar las copias de respaldo (back-up) de la información y procesos de cómputo que se realizan en la Dirección, conforme a parámetros preestablecidos: Documentan las actividades diarias, los suministros empleados y cualquier condición anormal que se presente.
+
+-Marcar y/o señalizar los productos de los procesos ejecutados: Mantiene comunicados a los usuarios y a sus colaboradores de los avances, atrasos y problemas que se presentan rutinariamente y cuando sea necesario a través de medios establecidos formalmente, como el uso de correo electrónico, mensajes, etc.
